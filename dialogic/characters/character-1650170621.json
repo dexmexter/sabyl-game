@@ -1,0 +1,21 @@
+{
+	"color": "#ff0fea27",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1650170621.json",
+	"mirror_portraits": false,
+	"name": "Bill",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": -133,
+	"offset_y": -10,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://entities/npc/bill.png"
+		}
+	],
+	"scale": 100,
+	"theme": "default-theme.cfg"
+}

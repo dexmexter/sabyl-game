@@ -1,0 +1,41 @@
+{
+	"events": [
+		{
+			"animation": "instant_in.gd",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1650170621.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": true,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1650170621.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hey, my name is Bill, it's really nice to meet you! I need to say more so that I can fill up the whole textbox for this test. "
+		},
+		{
+			"character": "character-1650170621.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I've got nothing else to say. Goodbye."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1650170778.json",
+		"name": "BillIntroduction"
+	}
+}
