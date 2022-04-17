@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Kelly.png-e6c1968a88dec1d128bd409c8d749b59.stex"
+path="res://.import/dom.png-a592dc5c672be3674b2ea8bc7c938dc7.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Kelly.png"
-dest_files=[ "res://.import/Kelly.png-e6c1968a88dec1d128bd409c8d749b59.stex" ]
+source_file="res://entities/npc/dom.png"
+dest_files=[ "res://.import/dom.png-a592dc5c672be3674b2ea8bc7c938dc7.stex" ]
 
 [params]
 
@@ -20,7 +20,7 @@ compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=true
+flags/filter=false
 flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2
@@ -31,5 +31,5 @@ process/invert_color=false
 process/normal_map_invert_y=false
 stream=false
 size_limit=0
-detect_3d=true
+detect_3d=false
 svg/scale=1.0

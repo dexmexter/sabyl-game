@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Sabyl.png-6f40eb4e65ea0ca1f6d3f2ff8e692844.stex"
+path="res://.import/john.png-f6ba81eb346e63a0e661e6be54d3ac7e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Sabyl.png"
-dest_files=[ "res://.import/Sabyl.png-6f40eb4e65ea0ca1f6d3f2ff8e692844.stex" ]
+source_file="res://entities/npc/john.png"
+dest_files=[ "res://.import/john.png-f6ba81eb346e63a0e661e6be54d3ac7e.stex" ]
 
 [params]
 
