@@ -5,3 +5,10 @@
 bin/
 build/
 lib/
+
+*.translation
+
+# System/tool-specific ignores
+.directory
+.DS_Store
+*~
