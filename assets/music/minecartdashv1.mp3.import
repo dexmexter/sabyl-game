@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/minecartdashv1.mp3-7912703d056aa3127e40f49beae11bae.mp3str"
+
+[deps]
+
+source_file="res://assets/music/minecartdashv1.mp3"
+dest_files=[ "res://.import/minecartdashv1.mp3-7912703d056aa3127e40f49beae11bae.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

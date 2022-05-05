@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/alchemistshutv1.mp3-e7ff8db7eb24ddb85d79bb418012fde1.mp3str"
+
+[deps]
+
+source_file="res://assets/music/alchemistshutv1.mp3"
+dest_files=[ "res://.import/alchemistshutv1.mp3-e7ff8db7eb24ddb85d79bb418012fde1.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

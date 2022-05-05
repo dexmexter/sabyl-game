@@ -100,6 +100,10 @@ enabled=PoolStringArray( "res://addons/dialogic/plugin.cfg" )
 
 singletons=[  ]
 
+[global]
+
+depth=false
+
 [input]
 
 ui_left={
